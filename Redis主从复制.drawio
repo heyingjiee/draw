@@ -1,9 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T08:03:10.499Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.6" etag="cGFV__eBKRvVD2GMHMUI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T08:57:14.409Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ax_JpqkoiiyVug0FX203" version="22.0.6" type="github">
   <diagram name="第 1 页" id="InC7F5kwpcaetfhoXfsr">
-    <mxGraphModel>
+    <mxGraphModel dx="1375" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lrW4jDTgQNn0qahZzyx1-1" target="lrW4jDTgQNn0qahZzyx1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-1" value="redis实例" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrW4jDTgQNn0qahZzyx1-2" target="lrW4jDTgQNn0qahZzyx1-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-2" value="变成slave节点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-5" value="slaveof &amp;lt;master_ip&amp;gt;&amp;nbsp; &amp;lt;master ip&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="150" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrW4jDTgQNn0qahZzyx1-7" target="lrW4jDTgQNn0qahZzyx1-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-7" value="master节点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-10" value="定时发送ping向master发送ping命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lrW4jDTgQNn0qahZzyx1-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="220" as="targetPoint" />
+            <mxPoint x="330" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-12" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;slaveof no one&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="205" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-14" value="返回响应成功&lt;br&gt;master节点的主进程fork出一个子进程向slave发送数据&lt;br&gt;slave节点将数据写入持久化文件中，随后加载到内存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="380" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-15" value="如果未响应，则会" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="lrW4jDTgQNn0qahZzyx1-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-210" y="210" as="targetPoint" />
+            <mxPoint x="150" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lrW4jDTgQNn0qahZzyx1-22" target="lrW4jDTgQNn0qahZzyx1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-22" value="写入master节点的内存中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-24" value="待同步完毕后，再将内存数据追加到slave节点的持久化文中&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="88" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lrW4jDTgQNn0qahZzyx1-25" value="过程中，如果master接收到写命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="298" width="200" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

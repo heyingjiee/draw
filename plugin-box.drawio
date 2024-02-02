@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-02-02T10:08:56.821Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qn1UPmQvMq8fyG_-Qxeg" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-02T10:10:03.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="69WlaICs0Ra9lEuSNSSc" version="23.1.1" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1155" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d_EyPhG1koHHxLtSO-FC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="690" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="d_EyPhG1koHHxLtSO-FC-2" value="市场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d_EyPhG1koHHxLtSO-FC-3" value="本地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d_EyPhG1koHHxLtSO-FC-4" value="设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d_EyPhG1koHHxLtSO-FC-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="145" width="70" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

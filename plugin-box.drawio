@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T06:46:30.698Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mWI_vrMzMuydFXi6_axH" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T06:58:18.523Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PsD59g-4bybnUH0Gg22b" version="23.1.1" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1094" dy="1519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -219,8 +219,8 @@
         <mxCell id="o-zOcZhz4W4yG8CBaR5f-105" value="插件能力：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="3278" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-107" value="1、通用API，封装原生能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="3308" width="170" height="30" as="geometry" />
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-107" value="1、通用API，封装原生能力。node能力是否开放？考虑很多能力需要插件自己通过shell调用&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="109.4" y="3308" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o-zOcZhz4W4yG8CBaR5f-108" value="2、注入系统右键菜单能力（超级面板能力也行）&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="110" y="3338" width="280" height="30" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T06:40:16.753Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1UBO5O_4vcDEGMRQulYx" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T06:46:30.698Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mWI_vrMzMuydFXi6_axH" version="23.1.1" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1094" dy="1519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -208,35 +208,13 @@
         <mxCell id="o-zOcZhz4W4yG8CBaR5f-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-zOcZhz4W4yG8CBaR5f-88" target="o-zOcZhz4W4yG8CBaR5f-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-93" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="1540" width="150" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-94" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-93">
-          <mxGeometry x="0.8137432188065024" width="149.18625678119352" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-95" value="icon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-93">
-          <mxGeometry x="0.8137432188065024" width="149.18625678119352" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-96" value="版本：v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-93">
-          <mxGeometry x="0.8137432188065024" y="80" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-97" value="功能：自动化埋点工具" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-93">
-          <mxGeometry x="0.8137432188065024" y="101.20000000000005" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-98" value="系统：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-93">
-          <mxGeometry y="124.40000000000009" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-99" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/picons-social/57/32-windows8-128.png" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-93">
-          <mxGeometry x="47.252206148282106" y="132.00000000000006" width="12.748643761301992" height="12.748643761301992" as="geometry" />
-        </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-100" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.apple;fillColor=#1B1C1C;strokeColor=none" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-93">
-          <mxGeometry x="67.22000000000003" y="125" width="16.38" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-102" value="点击，进入插件安装业" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-102" value="点击，进入插件安装页" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="508.28999999999996" y="1547.5" width="185.41" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-zOcZhz4W4yG8CBaR5f-95" target="o-zOcZhz4W4yG8CBaR5f-102">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="o-zOcZhz4W4yG8CBaR5f-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1575" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="o-zOcZhz4W4yG8CBaR5f-105" value="插件能力：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="3278" width="80" height="30" as="geometry" />
@@ -263,6 +241,42 @@
         </mxCell>
         <mxCell id="o-zOcZhz4W4yG8CBaR5f-116" value="1、macos内置homebrew，用于安装插件环境。比如git&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="115" y="3408" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-117" value="通过 npm cli 查询 @plugin-box域名下的包&lt;br&gt;根据package.json中的自定义字段配置&lt;br&gt;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="865" y="1495" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-118" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="1530" width="150" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-119" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-118">
+          <mxGeometry x="0.8137432188065024" width="149.18625678119352" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-120" value="icon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-118">
+          <mxGeometry x="0.8137432188065024" width="149.18625678119352" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-121" value="版本：v1.0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-118">
+          <mxGeometry x="0.8137432188065024" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-122" value="功能：自动化埋点工具" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-118">
+          <mxGeometry x="0.8137432188065024" y="101.20000000000005" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-123" value="系统：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-118">
+          <mxGeometry y="124.40000000000009" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-124" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/picons-social/57/32-windows8-128.png" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-118">
+          <mxGeometry x="47.252206148282106" y="132.00000000000006" width="12.748643761301992" height="12.748643761301992" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-125" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.apple;fillColor=#1B1C1C;strokeColor=none" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-118">
+          <mxGeometry x="67.22000000000003" y="125" width="16.38" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-126" value="菜单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-118">
+          <mxGeometry x="100" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-127" value="系统依赖：Git、Node" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-118">
+          <mxGeometry y="145" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-129" value="README作为插件安装页内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="865" y="1560" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

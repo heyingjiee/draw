@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T06:38:47.488Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RiUVptkCUMh18bVTwgiB" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T06:40:16.753Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1UBO5O_4vcDEGMRQulYx" version="23.1.1" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1094" dy="1519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
         <mxCell id="o-zOcZhz4W4yG8CBaR5f-100" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.apple;fillColor=#1B1C1C;strokeColor=none" vertex="1" parent="o-zOcZhz4W4yG8CBaR5f-93">
           <mxGeometry x="67.22000000000003" y="125" width="16.38" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-102" value="点击，进入插件详情页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-102" value="点击，进入插件安装业" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="508.28999999999996" y="1547.5" width="185.41" height="55" as="geometry" />
         </mxCell>
         <mxCell id="o-zOcZhz4W4yG8CBaR5f-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-zOcZhz4W4yG8CBaR5f-95" target="o-zOcZhz4W4yG8CBaR5f-102">
@@ -261,8 +261,8 @@
         <mxCell id="o-zOcZhz4W4yG8CBaR5f-115" value="系统：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="3378" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o-zOcZhz4W4yG8CBaR5f-116" value="1、macos内置homebr" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="3418" width="140" height="30" as="geometry" />
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-116" value="1、macos内置homebrew，用于安装插件环境。比如git&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="3408" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

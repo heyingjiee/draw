@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T09:36:31.348Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Fbw0B4X2e8U4s2oAWKeU" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-05T06:11:25.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="m_WU_loRaacZzKf2BBXR" version="23.1.1" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1094" dy="1519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="170" y="-120" width="550" height="190" as="geometry" />
         </mxCell>
         <mxCell id="d_EyPhG1koHHxLtSO-FC-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="508" width="700" height="40" as="geometry" />
+          <mxGeometry x="140" y="508" width="700" height="42" as="geometry" />
         </mxCell>
         <mxCell id="d_EyPhG1koHHxLtSO-FC-13" value="工具栏" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="470" width="60" height="30" as="geometry" />
@@ -237,6 +237,18 @@
         </mxCell>
         <mxCell id="o-zOcZhz4W4yG8CBaR5f-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-zOcZhz4W4yG8CBaR5f-95" target="o-zOcZhz4W4yG8CBaR5f-102">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-105" value="插件能力：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="3278" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-107" value="1、通用API，封装原生能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="3308" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-108" value="2、注入系统右键菜单能力（超级面板能力也行）&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="3338" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-zOcZhz4W4yG8CBaR5f-110" value="托盘" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="508" width="170" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

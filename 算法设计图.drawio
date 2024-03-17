@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-17T17:05:27.773Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jEJC5UsGRkefxvRoXUm1" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-17T17:23:38.317Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Mzi6NrxohOVxjni4eUuo" version="24.0.0" type="github">
   <diagram name="第 1 页" id="1XCP7jNMBcmsMrd_4nbx">
     <mxGraphModel dx="948" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="qr7Fa6f-GQXD6Rq6hVUz-12" value="a,b," style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qr7Fa6f-GQXD6Rq6hVUz-13" value="输入：&quot;abc&quot;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-white-space ng-star-inserted&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span data-eusoft-eudic-loading-template-original-text=&quot;输入：“&quot; class=&quot;eusoft-eudic-translate-loading-tag ng-star-inserted&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qr7Fa6f-GQXD6Rq6hVUz-13" value="输入：[1,2,3]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="80" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qr7Fa6f-GQXD6Rq6hVUz-14" value="a,b" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -75,6 +75,30 @@
         </mxCell>
         <mxCell id="qr7Fa6f-GQXD6Rq6hVUz-28" value="d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="568" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qr7Fa6f-GQXD6Rq6hVUz-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="522" as="sourcePoint" />
+            <mxPoint x="464.5" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qr7Fa6f-GQXD6Rq6hVUz-31" value="题目：需要2个数连续的数&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="309" y="625" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qr7Fa6f-GQXD6Rq6hVUz-33" value="e" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="568" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qr7Fa6f-GQXD6Rq6hVUz-34" value="最后一个符合条件的数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="344" y="490" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qr7Fa6f-GQXD6Rq6hVUz-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="522" as="sourcePoint" />
+            <mxPoint x="534.5" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qr7Fa6f-GQXD6Rq6hVUz-36" value="e+后面的数，凑不够两个" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="490" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

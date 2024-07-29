@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-29T09:57:49.800Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_IAX5VWgXP3uLRqeVSc0" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-29T10:03:37.377Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0Us2Jjd7ChSujroVH7W2" version="24.2.1" type="github">
   <diagram name="第 1 页" id="EehXdD13iCLShdm9F7BX">
     <mxGraphModel dx="966" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,8 +100,8 @@
         <mxCell id="SuJ1_BkvwFBuwhMPCFor-28" value="创建iframe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="900" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SuJ1_BkvwFBuwhMPCFor-38" value="postMessage id、开播、停播" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1020" width="180" height="30" as="geometry" />
+        <mxCell id="SuJ1_BkvwFBuwhMPCFor-38" value="postMessage id、&amp;lt;开播、停播&amp;gt;、token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1020" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SuJ1_BkvwFBuwhMPCFor-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.016;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SuJ1_BkvwFBuwhMPCFor-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -109,8 +109,8 @@
             <mxPoint x="760" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SuJ1_BkvwFBuwhMPCFor-45" value="登录成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="950" width="70" height="30" as="geometry" />
+        <mxCell id="SuJ1_BkvwFBuwhMPCFor-45" value="登录成功、跳转至直播页面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="950" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SuJ1_BkvwFBuwhMPCFor-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -126,6 +126,15 @@
         </mxCell>
         <mxCell id="SuJ1_BkvwFBuwhMPCFor-49" value="成功通知关闭iframe、失败通知msg+关闭iframe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="375" y="1090" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SuJ1_BkvwFBuwhMPCFor-50" value="收到开播：&amp;lt;1 开播流程&amp;gt;&amp;nbsp; &amp;lt;2 等待推流，有流后返回成功。3分钟超时返回失败&amp;gt; &amp;lt;3 直接返回成功&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="770" width="540" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SuJ1_BkvwFBuwhMPCFor-51" value="iframe三种状态：1未开播、2待推流、3 直播中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="695" y="730" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SuJ1_BkvwFBuwhMPCFor-52" value="收到关播播：&amp;lt;1 直接返回成功&amp;gt;&amp;nbsp; &amp;lt;2 取消直播&amp;gt; &amp;lt;3 关闭后，返回成功&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="800" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

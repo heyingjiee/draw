@@ -86,12 +86,12 @@
           <mxGeometry x="470" y="530" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SuJ1_BkvwFBuwhMPCFor-25" value="页面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="882" width="250" height="510" as="geometry" />
+          <mxGeometry x="90" y="882" width="250" height="278" as="geometry" />
         </mxCell>
         <mxCell id="SuJ1_BkvwFBuwhMPCFor-26" value="iframe" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="882" width="240" height="520" as="geometry" />
+          <mxGeometry x="710" y="882" width="240" height="278" as="geometry" />
         </mxCell>
-        <mxCell id="SuJ1_BkvwFBuwhMPCFor-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="SuJ1_BkvwFBuwhMPCFor-26" edge="1">
+        <mxCell id="SuJ1_BkvwFBuwhMPCFor-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.012;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.988;exitY=0.147;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="SuJ1_BkvwFBuwhMPCFor-26" edge="1" source="SuJ1_BkvwFBuwhMPCFor-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="932" as="sourcePoint" />
             <mxPoint x="390" y="882" as="targetPoint" />
@@ -103,10 +103,10 @@
         <mxCell id="SuJ1_BkvwFBuwhMPCFor-38" value="postMessage id、&amp;lt;开播、停播&amp;gt;、token" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="395" y="1020" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SuJ1_BkvwFBuwhMPCFor-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.016;entryY=0.192;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="SuJ1_BkvwFBuwhMPCFor-25" edge="1">
+        <mxCell id="SuJ1_BkvwFBuwhMPCFor-44" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="980" as="sourcePoint" />
-            <mxPoint x="760" y="930" as="targetPoint" />
+            <mxPoint x="350" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SuJ1_BkvwFBuwhMPCFor-45" value="登录成功、跳转至直播页面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">

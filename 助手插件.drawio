@@ -133,8 +133,8 @@
         <mxCell id="SuJ1_BkvwFBuwhMPCFor-51" value="iframe三种状态：1未开播、2待推流、3 直播中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="435" y="720" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SuJ1_BkvwFBuwhMPCFor-52" value="收到关播播：&amp;lt;1 直接返回成功&amp;gt;&amp;nbsp; &amp;lt;2 取消直播&amp;gt; &amp;lt;3 关闭后，返回成功&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="435" y="800" width="390" height="30" as="geometry" />
+        <mxCell id="SuJ1_BkvwFBuwhMPCFor-52" value="收到关播：&amp;lt;1 直接返回成功&amp;gt;&amp;nbsp; &amp;lt;2 取消直播&amp;gt; &amp;lt;3 关闭后，返回成功&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="440" y="800" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SuJ1_BkvwFBuwhMPCFor-53" value="异常：自动关播的，微信后台是2状态。这种需要取消后再走开播流程。而且难以判断，所以一律取消重新走开播流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="840" width="640" height="30" as="geometry" />
